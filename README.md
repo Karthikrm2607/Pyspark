@@ -11,4 +11,4 @@ Above are the documents attached,
 link : https://community.cloud.databricks.com/
 Goto Data>>CreateTable>>UploadAllFiles
 GoTo Compute/Create>>NewCluster>>run)
-The code to be followed is attached as (Spark RDD's.HTML) html file
+The code to be followed is attached as (Spark RDD's.py) python file
